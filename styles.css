@@ -1,0 +1,31 @@
+#mainHeading{
+    color:red;
+    text-align: center;
+    font-size: xx-large;
+}
+p{
+    color:red; 
+    font-style: italic;
+    padding-right: 80px
+}
+header{
+    font-size:x-large;
+    font:bold;
+}
+img.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+footer {
+    text-align: center;
+}
+
+body{
+    margin: 8px;
+    display: block;
+}
+#testP{
+    color:green;
+}
